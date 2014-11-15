@@ -1,0 +1,7 @@
+verschlüsselung (moderne verfahren)
+-RSA
+-Schlüsselaustausch
+
+VPN
+
+Datenbanken
