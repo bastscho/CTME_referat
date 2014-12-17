@@ -1,6 +1,11 @@
-openvpn.net
-http://wiki.openvpn.eu/
-Dirk Becker: OpenVPN – Das Praxisbuch, aktualisierte und erweiterte Auflage. Galileo Computing, Bonn 2011, ISBN 978-3-8362-1671-5
-Johannes Bauer, Albrecht Liebscher, Klaus Thielking-Riechert: OpenVPN. dpunkt, Heidelberg 2006, ISBN 3-89864-396-4
-Sven Riedel: OpenVPN – kurz & gut. O’Reilly, Köln 2007, ISBN 978-3-89721-529-0
-Thomas Zeller: OpenVPN kompakt. bomots, Saarbrücken 2008, ISBN 978-3-939316-51-0
+Links:
+	openvpn.net
+	wiki.openvpn.eu
+	www.zum.de/Faecher/Inf/RP/infschul/kr_rsa.html
+	youtube.com/user/pharithmetik
+
+Literatur:
+	Dirk Becker: OpenVPN – Das Praxisbuch, aktualisierte und erweiterte Auflage. Galileo Computing, Bonn 2011, ISBN 978-3-8362-1671-5
+	Johannes Bauer, Albrecht Liebscher, Klaus Thielking-Riechert: OpenVPN. dpunkt, Heidelberg 2006, ISBN 3-89864-396-4
+	Sven Riedel: OpenVPN – kurz & gut. O’Reilly, Köln 2007, ISBN 978-3-89721-529-0
+	Thomas Zeller: OpenVPN kompakt. bomots, Saarbrücken 2008, ISBN 978-3-939316-51-0
